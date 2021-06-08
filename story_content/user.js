@@ -2,7 +2,7 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6ptjmuk10gT":
+      case "5zVVDOQtRjU":
         Script1();
         break;
   }
@@ -81,7 +81,7 @@ overflow: visible !important;
 .slide-container, .slide-container * {
 visibility: visible !important;
 margin-top: 0px !important;
-margin-left: 0px !important;
+margin-right: 10px !important;
 }
 #outline-panel {
 display: none !important;
