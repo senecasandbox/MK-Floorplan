@@ -2,7 +2,7 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5zVVDOQtRjU":
+      case "6l4YJR2Rrod":
         Script1();
         break;
   }
@@ -40,7 +40,7 @@ overflow: visible !important;
 .slide-transition-container {
 overflow: visible !important;
 }
-@page {size: A4 portrait;max-height:80%; max-width:80%}
+@page {size: A4 portrait;max-height:60%; max-width:60%}
 .slide-container, .slide-container * {
 visibility: visible !important;
 margin-top: 0px !important;
