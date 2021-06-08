@@ -22,6 +22,11 @@
   font-style: normal;
   font-weight: normal;
 }
+@media print {
+ @page {
+ size: A4;
+ margin: 1in;
+ }
 .cs-HTML {
   background: rgba(255, 255, 255, 1);
 }
