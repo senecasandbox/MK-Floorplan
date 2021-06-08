@@ -2,7 +2,7 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6hzqzNHkLLe":
+      case "5qz69LE0Tew":
         Script1();
         break;
   }
@@ -23,10 +23,10 @@ var styles = `@media print {
 body, * { visibility: hidden; }
 html, body { overflow: hidden; transform: translateZ(0); }
 #slide {
-transform: scale(0.75) !important;
+transform: scale(1) !important;
 }
 #wrapper {
-transform: scale(0.75) !important;
+transform: scale(1) !important;
 }
 #slide,
 #wrapper {
