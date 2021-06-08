@@ -2,7 +2,7 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5mM7dG9JwwI":
+      case "5j9yZ8MdIZq":
         Script1();
         break;
   }
@@ -23,10 +23,10 @@ var styles = `@media print {
 body, * { visibility: hidden; }
 html, body { overflow: hidden; transform: translateZ(0); }
 #slide {
-transform: scale(0.50) !important;
+transform: scale(0.5) !important;
 }
 #wrapper {
-transform: scale(0.50) !important;
+transform: scale(0.5) !important;
 }
 #slide,
 #wrapper {
@@ -40,7 +40,7 @@ overflow: visible !important;
 .slide-transition-container {
 overflow: visible !important;
 }
-@page {size: A4 landscape;max-height:99%; max-width:99%}
+@page {size: A4 portrait;max-height:99%; max-width:99%}
 .slide-container, .slide-container * {
 visibility: visible !important;
 margin-top: 0px !important;
